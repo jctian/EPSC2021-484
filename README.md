@@ -1,4 +1,4 @@
 # EPSC2021-484
 Supplement material for poster presentation "Implications of a realistic crustal rheology for Venus’ resurfacing history and global tectonics" at EPSC 2021 (https://doi.org/10.5194/epsc2021-484)
 
-As we reran the reference model(M0) with the same parameters, the results displayed here is a bit different from figures in the abstract: there are global and regional overturns, but the timings for overturns are different, not at 1.65 and 2.61 Ga. Also, the patterns for mobility are different, but both show a high and continous mobility when plagioclase rheology is applied to the basaltic crust.
+As we reran the reference model(M0) with the same parameters, the results displayed here is a bit different from figures in the abstract: there are global and regional overturns, but the timings for overturns are different (not at 1.65 and 2.61 Ga in the abstract). Also, the patterns for mobility are different, but both show a high and continous mobility when plagioclase rheology is applied to the basaltic crust.
