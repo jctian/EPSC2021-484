@@ -31,3 +31,4 @@ $$ -->
 ---
 As we reran the reference model(M0) with the same parameters, the results displayed here is a bit different from figures in the abstract: there are global and regional overturns, but the timings for overturns are different, not at 1.65 and 2.61 Ga. Also, the patterns for mobility are different, but both show a high and continous mobility when plagioclase rheology is applied to the basaltic crust.
 
+
