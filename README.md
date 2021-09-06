@@ -1,7 +1,7 @@
 # EPSC2021-484
-Supplement material for poster presentation "Implications of a realistic crustal rheology for Venus’ resurfacing history and global tectonics" at EPSC 2021 (https://doi.org/10.5194/epsc2021-484)
+Supplement material for poster presentation "Implications of a realistic crustal rheology for Venus’ resurfacing history and global tectonics" at EPSC2021 (https://doi.org/10.5194/epsc2021-484)
 
-# Methodlogy
+# Methodology
 - Geodynamic model in 2D spherical annulus geometry, using the finite volume code StagYY (Tackley, 2008, *PEPI*) 
   - Composite rheology: diffusion creep, dislocation creep, and plastic yielding
   - Reference viscosity = <!-- $1*10^{20} \mathrm{Pa\cdot s}$ --> <img style="transform: translateY(0.1em); background: white;" src="svg/vMnZfz6iHW.svg"> 
@@ -29,6 +29,6 @@ $$ -->
 
 
 ---
-As we reran the reference model(M0) with the same parameters, the results displayed here is a bit different from figures in the abstract: there are global and regional overturns, but the timings for overturns are different, not at 1.65 and 2.61 Ga. Also, the patterns for mobility are different, but both show a high and continous mobility when plagioclase rheology is applied to the basaltic crust.
+As we reran the reference model(M0) with the same parameters, the results displayed here is a bit different from figures in the abstract: there are global and regional overturns, but the timings for overturns are different, not at 1.65 and 2.61 Ga. Also, the patterns for mobility are different, but both show a high and continuous mobility when plagioclase rheology is applied to the basaltic crust.
 
 
