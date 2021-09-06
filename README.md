@@ -3,7 +3,7 @@ Supplement material for poster presentation "Implications of a realistic crustal
 
 # Methodology
 - Geodynamic model in 2D spherical annulus geometry, using the finite volume code StagYY (Tackley, 2008, *PEPI*) 
-  - Resolution: 512*96, with grid refinement up to 2 times at the surface and CMB: ~13 km at the surface, ~25 km at the CMB
+  - Resolution: 512*96, with radial grid refinement up to 2 times at the surface and CMB: ~13 km at the surface, ~25 km at the CMB
   - Composite rheology: diffusion creep, dislocation creep, and plastic yielding
   - Reference viscosity = <!-- $1*10^{20} \mathrm{Pa\cdot s}$ --> <img style="transform: translateY(0.1em); background: white;" src="svg/vMnZfz6iHW.svg"> 
 <!-- $$
